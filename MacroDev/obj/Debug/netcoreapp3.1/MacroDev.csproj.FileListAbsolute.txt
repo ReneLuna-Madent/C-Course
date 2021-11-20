@@ -1,0 +1,14 @@
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\obj\Debug\netcoreapp3.1\MacroDev.GeneratedMSBuildEditorConfig.editorconfig
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\obj\Debug\netcoreapp3.1\MacroDev.AssemblyInfoInputs.cache
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\obj\Debug\netcoreapp3.1\MacroDev.AssemblyInfo.cs
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\obj\Debug\netcoreapp3.1\MacroDev.csproj.CoreCompileInputs.cache
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\bin\Debug\netcoreapp3.1\MacroDev.exe
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\bin\Debug\netcoreapp3.1\MacroDev.deps.json
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\bin\Debug\netcoreapp3.1\MacroDev.runtimeconfig.json
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\bin\Debug\netcoreapp3.1\MacroDev.runtimeconfig.dev.json
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\bin\Debug\netcoreapp3.1\MacroDev.dll
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\bin\Debug\netcoreapp3.1\MacroDev.pdb
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\obj\Debug\netcoreapp3.1\MacroDev.dll
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\obj\Debug\netcoreapp3.1\MacroDev.pdb
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\obj\Debug\netcoreapp3.1\MacroDev.genruntimeconfig.cache
+\\stnafsalo001.us164.corpintra.net\h132\RENLUNA\Data\My Documents\Git\1. Glosary\MacroTest\MacroDev\obj\Debug\netcoreapp3.1\MacroDev.csproj.AssemblyReference.cache
